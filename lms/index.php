@@ -29,10 +29,22 @@
                               <span class="badge bg-primary">' . $school['School Type'].'</span>
                               <span class="badge bg-success">'.$school['Language'].'</span>
                             </div>
+                            <div class="card-footer">
+                             <form action="updateschool.php" method ="GET">
+                             <input type="hidden" name="boardNo" value="'.$school['Board No'].'"> 
+                             <button type="submit" class="btn btn-primary" name="updateSchool">Edit</button>
+                             </form> 
+                             <form action="deleteschool.php" method ="GET">
+                             <input type="hidden" name="boardNo" value="'.$school['Board No'].'"> 
+                             <button type="submit" class="btn btn-danger" name="deleteSchool">Delete</button>
+                             </form> 
+                            </div>
                           </div>
-                  
                         </div>';
                 }
+              
+          ?>
+      </div>
               
           ?>
       </div>
