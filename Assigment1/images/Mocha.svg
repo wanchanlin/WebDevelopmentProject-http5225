@@ -1,0 +1,15 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="150" height="150" fill="white"/>
+<path d="M13.3223 48.1099C45.1623 51.4632 76.5556 55.1312 106.505 48.1099C111.222 -3.20214 8.88896 -2.20214 13.3223 48.1099Z" fill="#FCD276"/>
+<path d="M103.822 76.5527L106.505 48.1101H13.3223L16.0049 76.5527H103.822Z" fill="#F8DCA8"/>
+<path d="M101.14 104.996L103.822 76.5529H16.0049L18.6889 104.996H101.14Z" fill="#721E1C"/>
+<path d="M18.6649 104.749L21.3476 133.193H98.4783L101.162 104.749H18.6649Z" fill="#2F1514"/>
+<path d="M106.789 143.922H13.0383C11.861 143.922 10.8756 143.026 10.765 141.853L1.01029 38.4379C0.891623 37.1819 1.81295 36.0686 3.06895 35.9512C4.32362 35.8339 5.437 36.7539 5.55567 38.0085L15.1156 139.357H104.712L114.272 38.0085C114.39 36.7539 115.498 35.8312 116.758 35.9512C118.014 36.0686 118.936 37.1819 118.817 38.4379L109.061 141.853C108.95 143.026 107.966 143.922 106.789 143.922Z" fill="#2F1514"/>
+<path d="M146.481 68.3301C143.92 63.9461 139.412 61.1141 133.444 60.1421C127.609 59.1941 121.285 60.2435 114.377 63.2982C114.062 68.2502 113.672 73.9248 113.194 79.9141C117.801 76.7648 122.958 74.0142 127.95 73.2235C129.597 72.9622 130.837 73.1661 131.642 73.8248C132.616 74.6221 133.068 76.1155 132.821 77.7221C132.329 80.9181 129.586 84.1342 126.82 87.1542C122.548 91.8168 117.265 96.0568 111.382 99.6061C110.765 105.39 110.07 111.061 109.293 116.286C111.341 115.346 113.332 114.359 115.23 113.373C123.5 109.077 138.492 99.8848 146.012 86.5808C149.337 80.7008 149.521 73.5368 146.481 68.3301Z" fill="#2F1514"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="30.729" y="119.112">ESPRESSO</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="26.4039" y="95.8145">CHOCOLATE</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="34.4998" y="31.1987">WHIPPED</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="41.5732" y="43.7529">CREAM</tspan></text>
+<text fill="#2F1514" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="34.0262" y="59.9448">STEAMED</tspan></text>
+<text fill="#2F1514" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="47.3064" y="72.4995">MILK</tspan></text>
+</svg>

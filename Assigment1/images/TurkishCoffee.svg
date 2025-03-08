@@ -1,0 +1,20 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="150" height="150" fill="white"/>
+<rect x="30" y="54.9946" width="7" height="7" transform="rotate(-87.7984 30 54.9946)" fill="#FCD276"/>
+<rect x="13" y="50.6284" width="7" height="7" transform="rotate(-53.5219 13 50.6284)" fill="#FCD276"/>
+<rect x="53.5291" y="45.3804" width="7" height="7" transform="rotate(47.3521 53.5291 45.3804)" fill="#FCD276"/>
+<rect x="73.3009" y="45.6572" width="7" height="7" transform="rotate(25.5927 73.3009 45.6572)" fill="#FCD276"/>
+<rect x="91.1487" y="47" width="7" height="7" transform="rotate(47.3521 91.1487 47)" fill="#FCD276"/>
+<path d="M101 120.5L106 60H16L21 120L101 120.5Z" fill="#721E1C"/>
+<path d="M21 120L22.3476 133.252H99.4783L101 120H21Z" fill="#2F1514"/>
+<path d="M107.789 143.981H14.0383C12.861 143.981 11.8756 143.085 11.765 141.913L2.01029 38.497C1.89162 37.241 2.81295 36.1276 4.06895 36.0103C5.32895 35.893 6.43695 36.813 6.55562 38.069L16.1156 139.416H105.712L115.272 38.069C115.39 36.813 116.493 35.8903 117.758 36.0103C119.013 36.1276 119.936 37.241 119.817 38.497L110.061 141.913C109.95 143.085 108.966 143.981 107.789 143.981Z" fill="#2F1514"/>
+<path d="M147.481 68.3906C144.92 64.0052 140.412 61.1732 134.444 60.2012C128.609 59.2532 122.285 60.3026 115.377 63.3573C115.062 68.3106 114.67 73.9852 114.194 79.9732C118.801 76.8252 123.958 74.0732 128.949 73.2839C130.597 73.0212 131.836 73.2266 132.641 73.8852C133.616 74.6826 134.068 76.1746 133.821 77.7812C133.329 80.9772 130.586 84.1932 127.82 87.2132C123.548 91.8759 118.265 96.1159 112.382 99.6652C111.765 105.449 111.07 111.121 110.293 116.345C112.341 115.405 114.332 114.419 116.23 113.432C124.5 109.136 139.492 99.9439 147.012 86.6399C150.336 80.7599 150.521 73.5972 147.481 68.3906Z" fill="#2F1514"/>
+<text fill="#FCD276" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="27" y="42.5">CARDAMOM</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="39.3921" y="96.5">COFFEE</tspan></text>
+<rect x="18" y="56.791" width="7" height="7" transform="rotate(-23.4986 18 56.791)" fill="#FCD276"/>
+<rect x="39" y="61.9946" width="7" height="7" transform="rotate(-87.7984 39 61.9946)" fill="#FCD276"/>
+<rect x="60.1998" y="54.2793" width="7" height="7" transform="rotate(15.9235 60.1998 54.2793)" fill="#FCD276"/>
+<rect x="77" y="56.791" width="7" height="7" transform="rotate(-23.4986 77 56.791)" fill="#FCD276"/>
+<rect x="96.4387" y="54.8926" width="7" height="7" transform="rotate(3.59375 96.4387 54.8926)" fill="#FCD276"/>
+<rect x="100.439" y="43" width="7" height="7" transform="rotate(3.59375 100.439 43)" fill="#FCD276"/>
+</svg>

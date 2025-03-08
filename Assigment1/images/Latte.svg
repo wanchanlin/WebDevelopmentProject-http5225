@@ -1,0 +1,12 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="150" height="150" fill="white"/>
+<path d="M16.1729 67.7971L20.7529 116.344H101.073L105.651 67.7971H16.1729Z" fill="#F8DCA8"/>
+<path d="M20.7529 116.344L22.3476 133.252H99.4783L101.073 116.344H20.7529Z" fill="#2F1514"/>
+<path d="M16.4555 68.7969L105.369 67.7969L107.503 48.1689H14.3208L16.4555 68.7969Z" fill="#FCD276"/>
+<path d="M107.788 143.98H14.0369C12.8609 143.98 11.8756 143.085 11.7649 141.912L2.01029 38.4973C1.89162 37.2413 2.81292 36.128 4.06758 36.0093C5.32492 35.8987 6.4369 36.8133 6.55424 38.068L16.1156 139.416H105.709L115.27 38.068C115.388 36.8133 116.5 35.896 117.757 36.0093C119.013 36.128 119.933 37.2413 119.814 38.4973L110.06 141.912C109.949 143.085 108.965 143.98 107.788 143.98Z" fill="#2F1514"/>
+<path d="M147.48 68.3904C144.92 64.0051 140.41 61.1731 134.441 60.2011C128.608 59.2531 122.284 60.3024 115.374 63.3571C115.062 68.3104 114.669 73.9838 114.194 79.9731C118.8 76.8238 123.958 74.0731 128.949 73.2824C130.596 73.0211 131.836 73.2264 132.641 73.8851C133.614 74.6811 134.066 76.1745 133.818 77.7811C133.327 80.9771 130.586 84.1931 127.818 87.2131C123.546 91.8758 118.263 96.1158 112.381 99.6651C111.763 105.449 111.069 111.12 110.292 116.344C112.341 115.405 114.33 114.418 116.23 113.432C124.498 109.136 139.49 99.9438 147.011 86.6398C150.335 80.7598 150.52 73.5958 147.48 68.3904Z" fill="#2F1514"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="31.7273" y="126.584">ESPRESSO</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="29.7622" y="61.3184">MILK FOAM</tspan></text>
+<text fill="#2F1514" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="35.4221" y="91.1533">STEAMED</tspan></text>
+<text fill="#2F1514" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="48.7007" y="103.708">MILK</tspan></text>
+</svg>

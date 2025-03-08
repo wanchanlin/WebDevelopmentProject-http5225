@@ -1,0 +1,26 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="150" height="150" fill="white"/>
+<path d="M108 45L100 121.03L99.9426 121.03L98.4783 133H21.3476L20 120.561L13 45.9386L108 45Z" fill="#721E1C"/>
+<path d="M106.789 143.981H13.0383C11.861 143.981 10.8756 143.085 10.765 141.913L1.01029 38.497C0.891623 37.241 1.81295 36.1276 3.06895 36.0103C4.32895 35.893 5.43695 36.813 5.55562 38.069L15.1156 139.416H104.712L114.272 38.069C114.39 36.813 115.493 35.8903 116.758 36.0103C118.013 36.1276 118.936 37.241 118.817 38.497L109.061 141.913C108.95 143.085 107.966 143.981 106.789 143.981Z" fill="#2F1514"/>
+<path d="M146.481 68.3906C143.92 64.0052 139.412 61.1732 133.444 60.2012C127.609 59.2532 121.285 60.3026 114.377 63.3573C114.062 68.3106 113.67 73.9852 113.194 79.9732C117.801 76.8252 122.958 74.0732 127.949 73.2839C129.597 73.0212 130.836 73.2266 131.641 73.8852C132.616 74.6826 133.068 76.1746 132.821 77.7812C132.329 80.9772 129.586 84.1932 126.82 87.2132C122.548 91.8759 117.265 96.1159 111.382 99.6652C110.765 105.449 110.07 111.121 109.293 116.345C111.341 115.405 113.332 114.419 115.23 113.432C123.5 109.136 138.492 99.9439 146.012 86.6399C149.336 80.7599 149.521 73.5972 146.481 68.3906Z" fill="#2F1514"/>
+<rect x="39" y="69.6143" width="7" height="7" transform="rotate(-87.7984 39 69.6143)" fill="#FCD276"/>
+<rect x="20" y="73.248" width="7" height="7" transform="rotate(-53.5219 20 73.248)" fill="#FCD276"/>
+<rect x="52.5291" y="54" width="7" height="7" transform="rotate(47.3521 52.5291 54)" fill="#FCD276"/>
+<rect x="26.1931" y="54.8315" width="7" height="7" transform="rotate(11.2145 26.1931 54.8315)" fill="#FCD276"/>
+<rect x="31.1487" y="94.6196" width="7" height="7" transform="rotate(47.3521 31.1487 94.6196)" fill="#FCD276"/>
+<rect x="72.3009" y="54.2769" width="7" height="7" transform="rotate(25.5927 72.3009 54.2769)" fill="#FCD276"/>
+<rect x="90.1487" y="54.6196" width="7" height="7" transform="rotate(47.3521 90.1487 54.6196)" fill="#FCD276"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="38.3921" y="118.12">COFFEE</tspan></text>
+<rect x="44" y="95.4106" width="7" height="7" transform="rotate(-23.4986 44 95.4106)" fill="#FCD276"/>
+<rect x="31" y="85.6143" width="7" height="7" transform="rotate(-87.7984 31 85.6143)" fill="#FCD276"/>
+<rect x="59.1998" y="62.8989" width="7" height="7" transform="rotate(15.9235 59.1998 62.8989)" fill="#FCD276"/>
+<rect x="48" y="79.9697" width="7" height="7" transform="rotate(-38.4201 48 79.9697)" fill="#FCD276"/>
+<rect x="76" y="65.4106" width="7" height="7" transform="rotate(-23.4986 76 65.4106)" fill="#FCD276"/>
+<rect x="95.4387" y="63.5122" width="7" height="7" transform="rotate(3.59375 95.4387 63.5122)" fill="#FCD276"/>
+<rect x="71.0105" y="76.6196" width="7" height="7" transform="rotate(45.7079 71.0105 76.6196)" fill="#FCD276"/>
+<rect x="94.4255" y="78.0454" width="7" height="7" transform="rotate(89.6125 94.4255 78.0454)" fill="#FCD276"/>
+<rect x="81.0609" y="88.6196" width="7" height="7" transform="rotate(59.9785 81.0609 88.6196)" fill="#FCD276"/>
+<rect x="91.1561" y="93.9097" width="7" height="7" transform="rotate(15.462 91.1561 93.9097)" fill="#FCD276"/>
+<rect x="67.9589" y="92.6196" width="7" height="7" transform="rotate(83.7869 67.9589 92.6196)" fill="#FCD276"/>
+<text fill="#FCD276" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11" font-weight="bold" letter-spacing="0em"><tspan x="24.2612" y="26.5">CINNAMON &#38;&#x2028;</tspan><tspan x="26.748" y="39.5"> PILONCILLO</tspan></text>
+</svg>
