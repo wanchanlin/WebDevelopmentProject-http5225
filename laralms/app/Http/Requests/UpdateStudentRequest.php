@@ -11,7 +11,7 @@ class UpdateStudentRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        return true;
+        return false;
     }
 
     /**
@@ -23,9 +23,6 @@ class UpdateStudentRequest extends FormRequest
     {
         return [
             //
-            'fname' =>'required|string',
-            'lname' =>'required|string',
-            'email' =>'required|',
         ];
     }
 }

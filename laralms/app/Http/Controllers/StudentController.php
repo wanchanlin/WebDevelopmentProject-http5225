@@ -5,7 +5,6 @@ namespace App\Http\Controllers;
 use App\Models\Student;
 use App\Http\Requests\StoreStudentRequest;
 use App\Http\Requests\UpdateStudentRequest;
-use App\Models\Course;
 
 class StudentController extends Controller
 {
@@ -14,9 +13,7 @@ class StudentController extends Controller
      */
     public function index()
     {
-        return view('students.index', [
-            'students' => Student::all()
-        ]);
+        //
     }
 
     /**
@@ -24,7 +21,7 @@ class StudentController extends Controller
      */
     public function create()
     {
-        return view('students.create')->with('courses', Course::all());
+        //
     }
 
     /**
@@ -32,8 +29,6 @@ class StudentController extends Controller
      */
     public function store(StoreStudentRequest $request)
     {
-        Student::create($request->validated());
-        return redirect() -> route('students.index');
         //
     }
 
@@ -50,7 +45,7 @@ class StudentController extends Controller
      */
     public function edit(Student $student)
     {
-        return view ('students.edit', compact('student')); 
+        //
     }
 
     /**
@@ -59,8 +54,6 @@ class StudentController extends Controller
     public function update(UpdateStudentRequest $request, Student $student)
     {
         //
-        $student -> update($request -> validated());
-        return redirect() -> route('students.index');
     }
 
     /**
@@ -69,7 +62,5 @@ class StudentController extends Controller
     public function destroy(Student $student)
     {
         //
-             Student::destroy($student -> id);
-        return redirect() -> route('students.index');
     }
 }
